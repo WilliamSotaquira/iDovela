@@ -1,0 +1,81 @@
+        html,
+        body {
+            height: 100%;
+            font-family: 'Overpass', sans-serif;
+            font-family: 'Roboto', sans-serif;
+        }
+        
+        nav a div img {
+            position: relative;
+            width: 272px;
+            height: 64px;
+            margin: 10px;
+        }
+        
+        .black {
+            background: #000000ff !important;
+            color: #ffffffff;
+        }
+        
+        .opacity {
+            background: #000000ff !important;
+            opacity: -50%;
+        }
+        
+        .gray {
+            background: #eeeeeeff !important;
+        }
+        
+        .white {
+            background: #ffffffff !important;
+        }
+        
+        .alter1 {
+            background: #00b140ff !important;
+        }
+        
+        .alter2 {
+            background: #e4002bff !important;
+        }
+        
+        .btn-idovela {
+            height: 40px;
+            background: #000000ff !important;
+            border-radius: 26vh;
+            /* margin: 2px; */
+            color: #ffffffff;
+            margin: 5px;
+            padding: auto;
+            font-weight: 500;
+        }
+        
+        .btn-idovela:hover {
+            height: 40px;
+            background: #ffffffff !important;
+            border-radius: 26vh;
+            border-color: #000000ff;
+            border: 3px solid;
+            /* margin: 3px; */
+            color: #000000ff;
+            margin: 5px;
+            padding: auto;
+            font-weight: 500;
+        }
+        
+        .inputtext-idovela {
+            height: 40px;
+            background: #ffffffff !important;
+            color: #000000ff;
+            border-radius: 25vh;
+            margin: 0px;
+            padding: 2%;
+            border: none;
+            border-color: #ffffffff;
+            box-sizing: border-box;
+            outline: none;
+        }
+        
+        .inputtext-idovela::placeholder {
+            color: #000000ff;
+            opacity: 50%;
+        }

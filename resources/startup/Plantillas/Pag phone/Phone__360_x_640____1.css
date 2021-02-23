@@ -1,0 +1,435 @@
+.mediaViewInfo {
+	--web-view-name: Phone (360 x 640) – 1;
+	--web-view-id: Phone_360_x_640__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Phone_360_x_640__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Phone_360_x_640__1 {
+	position: absolute;
+	width: 360px;
+	height: 783px;
+	background-color: rgba(238,238,238,1);
+	overflow: hidden;
+	--web-view-name: Phone (360 x 640) – 1;
+	--web-view-id: Phone_360_x_640__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Regstrate_en_nuestra_lista_de_ {
+	left: 14px;
+	top: 72px;
+	position: absolute;
+	overflow: visible;
+	width: 333px;
+	white-space: nowrap;
+	line-height: 32px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: Overpass;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(0,0,0,1);
+}
+#Componente_32__1 {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 7px;
+	top: 9px;
+	overflow: visible;
+}
+#Grupo_3367 {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectngulo_2833 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(238,238,238,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_2833 {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#Grupo_3527 {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 12px;
+	top: 12px;
+	overflow: visible;
+}
+#Capa_97 {
+	position: absolute;
+	width: 15.799px;
+	height: 15.799px;
+	left: 4.271px;
+	top: 4.255px;
+	overflow: visible;
+}
+#Trazado_1105 {
+	fill: rgba(4,4,5,1);
+}
+.Trazado_1105 {
+	overflow: visible;
+	position: absolute;
+	width: 15.798px;
+	height: 15.799px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Capa_79 {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectngulo_3297 {
+	fill: rgba(0,0,0,0);
+}
+.Rectngulo_3297 {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+#Ingresa_tu_nombre_completo_tal {
+	left: 16px;
+	top: 171px;
+	position: absolute;
+	overflow: hidden;
+	width: 329px;
+	height: 30px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Grupo_3837 {
+	position: absolute;
+	width: 137px;
+	height: 48px;
+	left: 16px;
+	top: 695px;
+	overflow: visible;
+}
+#Rectngulo_3461 {
+	fill: rgba(0,0,0,1);
+}
+.Rectngulo_3461 {
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#Inscribirme {
+	left: 24.125px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 89.75px;
+	height: 22px;
+	line-height: 48px;
+	margin-top: -15.5px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(255,255,255,1);
+}
+#Tipo_de_documento {
+	left: 16px;
+	top: 429.5px;
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Componente_33__1 {
+	position: absolute;
+	width: 328px;
+	height: 48px;
+	left: 16px;
+	top: 213px;
+	overflow: visible;
+}
+#Rectngulo_3471 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(238,238,238,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_3471 {
+	position: absolute;
+	overflow: visible;
+	width: 328px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#Nombre {
+	opacity: 0.5;
+	left: 25px;
+	top: 17.073px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	height: 15.85498046875px;
+	line-height: 48px;
+	margin-top: -18px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Componente_34__1 {
+	position: absolute;
+	width: 328px;
+	height: 48px;
+	left: 16px;
+	top: 284.927px;
+	overflow: visible;
+}
+#Rectngulo_3472 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(238,238,238,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_3472 {
+	position: absolute;
+	overflow: visible;
+	width: 328px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#Primer_Apellido {
+	opacity: 0.5;
+	left: 24px;
+	top: 17.073px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	height: 15.85498046875px;
+	line-height: 48px;
+	margin-top: -18px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Componente_35__1 {
+	position: absolute;
+	width: 328px;
+	height: 48px;
+	left: 16px;
+	top: 357.355px;
+	overflow: visible;
+}
+#Rectngulo_3475 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(238,238,238,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_3475 {
+	position: absolute;
+	overflow: visible;
+	width: 328px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#Segundo_Apellido {
+	opacity: 0.5;
+	left: 24px;
+	top: 16.073px;
+	position: absolute;
+	overflow: visible;
+	width: 111.5px;
+	height: 15.85498046875px;
+	line-height: 48px;
+	margin-top: -18px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Componente_36__1 {
+	position: absolute;
+	width: 328px;
+	height: 48px;
+	left: 17px;
+	top: 546px;
+	overflow: visible;
+}
+#Rectngulo_3476 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(238,238,238,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_3476 {
+	position: absolute;
+	overflow: visible;
+	width: 328px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+#Nmero_de_documento_ {
+	opacity: 0.5;
+	left: 24px;
+	top: 16.573px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	height: 14.85498046875px;
+	line-height: 48px;
+	margin-top: -18px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Rectngulo_3519 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_3519 {
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	height: 48px;
+	left: 16.5px;
+	top: 474px;
+}
+#Cedula_de_ciudadana {
+	left: 29px;
+	top: 490.573px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	height: 14.85498046875px;
+	line-height: 48px;
+	margin-top: -18px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Rectngulo_3518 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(238,238,238,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_3518 {
+	position: absolute;
+	overflow: visible;
+	width: 142px;
+	height: 48px;
+	left: 172px;
+	top: 474px;
+}
+#Cedula_de_extranjera {
+	left: 184px;
+	top: 491px;
+	position: absolute;
+	overflow: visible;
+	width: 119px;
+	height: 14.85498046875px;
+	line-height: 48px;
+	margin-top: -18px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Al_dar_click_en_inscribirme_au {
+	left: 17px;
+	top: 618.145px;
+	position: absolute;
+	overflow: visible;
+	width: 318px;
+	height: 68.85498046875px;
+	line-height: 20px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
