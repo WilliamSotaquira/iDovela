@@ -54,7 +54,7 @@
             background: #ffffffff !important;
             border-radius: 26vh;
             border-color: #000000ff;
-            border: 3px solid;
+            border: 1px solid;
             /* margin: 3px; */
             color: #000000ff;
             margin: 5px;
@@ -67,6 +67,7 @@
             background: #ffffffff !important;
             color: #000000ff;
             border-radius: 25vh;
+            border-color: #000000ff;
             margin: 0px;
             padding: 2%;
             border: none;
@@ -78,4 +79,8 @@
         .inputtext-idovela::placeholder {
             color: #000000ff;
             opacity: 50%;
+        }
+        
+        .inputtext-idovela:focus {
+            box-shadow: 0 0 0 0.07rem #000000ff;
         }

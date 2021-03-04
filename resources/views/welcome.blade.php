@@ -10,7 +10,7 @@
 
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
-
+    <link rel="icon" type="svg" href="{{asset('/startup/logo/Logotipo_idovela_negro_fondo_transparente.svg')}}" />
 
     <title>iDovela</title>
 </head>
@@ -42,36 +42,18 @@
                 <img class="w-100 h-auto img-fluid h-100" src="{{asset('startup/ArchivosSVG/Portadas/Puerta_de_dovela-fondo_negro.svg')}}">
             </div>
         </div>
-        <div class="container-fluid m-md-5">
+        <div class="container-fluid">
             <div class="row">
-                <div class="col-5">
-                    <div class="col-12 d-flex justify-content-end">
-                        <img class="w-40" src="{{asset('startup/ArchivosSVG/Iconografia/icon/icon_negro/Menos-icon-negro.svg')}}" style="height: 10rem;">
-                    </div>
-                    <div class="col-12 text-end">
-                        <h2><strong>Complejidad</strong></h2>
-                    </div>
-                </div>
-                <div class="col-2">
-                    <div class="col-12 d-flex justify-content-center">
-                        <img class=" w-40" src="{{asset('startup/ArchivosSVG/Iconografia/icon/icon_negro/igual-icon-negro.svg')}} " style="height: 10rem;">
-                    </div>
-                    <div class="col-12">
-                        <!-- <h2><strong>Complejidad</strong></h2> -->
-                    </div>
-                </div>
-                <div class="col-5">
-                    <div class="col-12 d-flex justify-content-start">
-                        <img class="w-40" src="{{asset('startup/ArchivosSVG/Iconografia/icon/icon_negro/Mas-icon-negro.svg')}}" style="height: 10rem;">
-                    </div>
-                    <div class="col-12">
-                        <h2Espacios habitables><strong>Espacios habitables</strong></h2>
-                    </div>
+                <div class="col-12 d-flex justify-content-center">
+                    <img class="w-50" src="{{asset('startup/ArchivosSVG/Portadas/menosIgualMas-FondoBlanco.svg')}}" style="width: 10rem;">
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-md-6 black p-md-5 py-5 d-flex justify-content-center align-content-center flex-wrap">
+            <div class="col-md-6 p-0 order-sm-2">
+                <img class="w-100 h-auto img-fluid h-100" src="{{asset('startup/Imagenes/Salon-dovela.png')}}">
+            </div>
+            <div class="col-md-6 black p-md-5 py-5 d-flex justify-content-center align-content-center flex-wrap order-sm-1">
                 <div class="col-md-10 col-sm-12 mx-5 p-sm-5">
                     <h2 class=""><strong>La mayoría soñamos con un espacio habitable reconfortante.</strong></h2>
                     <p>Es por eso que en Idovela proponemos:</p>
@@ -79,11 +61,7 @@
                     <p>consistenciaSabemos lo difícil que puede ser el elegir productos con plena confianza y visión objetiva.</p>
                     <h2>Menos frustración</h2>
                     <p>Conocemos lo frustrante que es el intentar conectar con un servicio al estar creando nuestro espacio ideal.</p>
-
                 </div>
-            </div>
-            <div class="col-md-6 p-0">
-                <img class="w-100 h-auto img-fluid h-100" src="{{asset('startup/Imagenes/Salon-dovela.png')}}">
             </div>
         </div>
         <div class="row">
@@ -127,7 +105,7 @@
         </div>
         <div class="row">
             <div class="col-md-6">
-                    <p><img class="w-25 ms-4" src="{{asset('startup/ArchivosSVG/Logo/Logotipo_idovela_blanco_fondo_transparente.svg')}}"><span class="mx-3">© iDOVELA S.A.S 2021</span></p>
+                <p><img class="w-25 ms-4" src="{{asset('startup/ArchivosSVG/Logo/Logotipo_idovela_blanco_fondo_transparente.svg')}}"><span class="mx-3">© iDOVELA S.A.S 2021</span></p>
             </div>
             <div class="col-md-3">
                 <div class="row ">
